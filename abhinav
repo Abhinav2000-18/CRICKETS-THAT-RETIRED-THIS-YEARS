@@ -1,0 +1,46 @@
+# Cricketers Retired in 2024 - Website Project
+
+## Overview
+This website showcases a list of legendary cricketers who retired in 2024. It highlights their iconic careers and celebrates their contributions to the world of cricket. The cricketers featured have retired from various formats, with specific attention given to those who retired from **T20I**, **ODI**, or **Test Cricket**. 
+
+## Features
+- **Responsive Layout**: The website is designed to adapt to various screen sizes, ensuring optimal viewing experience across devices (desktops, tablets, and smartphones).
+- **Interactive Cards**: Each cricketer has a dedicated card featuring a brief biography and the format they retired from. 
+- **Hover Effect**: The cards have a subtle hover effect to provide an interactive experience.
+- **Content Organization**: The cricketers are organized in a grid layout, which helps with easy navigation and readability.
+- **Footer**: The content producer, Abhinav, is credited in the footer.
+
+## Cricketers Featured:
+1. **James Anderson** - Retired from Test Cricket.
+2. **David Warner** - Retired from ODI and Test Cricket.
+3. **Ravindra Jadeja** - Retired from T20I Cricket.
+4. **Rohit Sharma** - Retired from T20I Cricket.
+5. **Heinrich Klaasen** - Retired from T20I Cricket.
+6. **Ravichandran Ashwin** - Retired from Test Cricket.
+7. **Virat Kohli** - Retired from T20I Cricket.
+8. **Shikhar Dhawan** - Retired from ODI and T20I Cricket.
+9. **Tim Southee** - Retired from Test Cricket.
+10. **Moeen Ali** - Retired from ODI and T20I Cricket.
+
+## How to Run Locally
+1. Download the repository by cloning it or downloading the ZIP file.
+2. Extract the files and navigate to the folder containing the files.
+3. Open the `index.html` file in your preferred web browser (Chrome, Firefox, etc.) to view the website.
+
+## Technologies Used
+- **HTML5**: Structure and content of the website.
+- **CSS3**: Styling and layout of the website.
+- **CSS Animations**: Used for smooth transition effects and fade-in animation on cricketer cards.
+- **Responsive Design**: The website automatically adjusts to various screen sizes and devices.
+
+## Customization
+You can easily customize the website by:
+- Updating the **images** by replacing the placeholder image URLs with actual cricketer images.
+- Modifying the **descriptions** for each cricketer in the HTML.
+- Adjusting the **styling** in the CSS to match your preferences.
+
+## License
+This project is open-source and free to use. Please feel free to modify and customize it as per your requirements.
+
+## Content Producer:
+- **Abhinav** (Content Producer)
