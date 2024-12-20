@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Cricketers Retired in 2024</title>
+    <title></title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -117,9 +117,10 @@
 
     <div class="container">
         <div class="card fade-in">
-            <img src="https://via.placeholder.com/400" alt="James Anderson Image">
+           
             <div class="card-body">
-                <h3>James Anderson</h3>
+               <img src="image_converted.jpg" alt="James Anderson Image">
+ <h3>James Anderson</h3>
                 <p><strong>Format:</strong> Test Cricket</p>
                 <p>James Anderson, one of the greatest fast bowlers in the history of cricket, retired in 2024 after an illustrious 19-year career in international cricket. He holds the record for the most Test wickets by any fast bowler and is widely regarded as England’s best-ever bowler. Anderson's ability to swing the ball both ways and his longevity at the highest level, especially in challenging English conditions, made him a cornerstone of the English bowling attack. He played a key role in numerous series wins and was instrumental in England’s Ashes victories. Anderson’s career spanned across multiple eras, and his precise, tactical approach to fast bowling will be remembered for generations.</p>
             </div>
